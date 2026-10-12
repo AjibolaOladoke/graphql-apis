@@ -135,3 +135,11 @@ Compiled and maintained from upstream [APIs-guru/graphql-apis](https://github.co
 ---
 
 Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
+
+## Sources
+
+Compiled and maintained from upstream [APIs-guru/graphql-apis](https://github.com/APIs-guru/graphql-apis) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
