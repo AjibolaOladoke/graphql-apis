@@ -6,7 +6,7 @@ This is part of the Swift Tech Co. working stack for product and engineering. It
 
 ## Images
 
-[![graphql-apis](images/preview.png)](https://github.com/Swift-Tech-Co)
+[![graphql-apis](images/preview.png)](https://github.com/Swift-Tech-Co/graphql-apis)
 
 ## Official APIs
 
@@ -70,7 +70,6 @@ This is part of the Swift Tech Co. working stack for product and engineering. It
 | Star-Wars-Api | A fully fledged Star Wars API. Using mostly the same data source as swapi.dev, but way faster (no Django overhead) and easier to query nested data. | Try it! | Repo
 | TMDB | The Movie Database Wrapper | Try it! | Repo
 
-
 ## Demonstration-only APIs
 
 | API | Description | Graph*i*QL | Docs/Repo
@@ -106,13 +105,21 @@ Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: swifttechco.com
+- Website: https://github.com/Swift-Tech-Co/graphql-apis
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [APIs-guru/graphql-apis](https://github.com/APIs-guru/graphql-apis) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
 
 ## Sources
 
